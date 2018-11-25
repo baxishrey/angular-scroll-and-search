@@ -1,0 +1,12 @@
+.container {
+  margin-top: 2rem;
+}
+
+cdk-virtual-scroll-viewport {
+  height: 100vh;
+}
+
+.btn-search {
+  margin-left: 1em;
+  margin-bottom: 0.5em;
+}
